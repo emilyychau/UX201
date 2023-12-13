@@ -121,7 +121,7 @@ width: 39.99999%;
 
 .land-back{
     font-size: 0.8em; 
-    padding: 30px;
+    padding-left, padding-right: 30px;
 }
 
 /* FAUX BUTTONS */
