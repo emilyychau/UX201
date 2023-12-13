@@ -36,10 +36,14 @@ li {
 a {
     text-decoration: none;
     color: #202020;
+}
 
 /* GALLERY */
 
+.big-daddy-gallery{
+float: center;
 }
+
 div.gallery {
     border: 1px solid #ccc;
 }
