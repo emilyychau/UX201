@@ -14,11 +14,13 @@ p, a, li, footer, span, sup {
 
 main p{
     padding-bottom: 20px;
-    padding-left, padding-right: 40px;
+    padding-left: 40px;
+    padding-right: 40px;
 }
 
 main h3 {
-    padding-left, padding-right: 40px;
+    padding-left: 40px;
+    padding-right: 40px;
 }
 
 
