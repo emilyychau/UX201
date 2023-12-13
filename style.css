@@ -57,6 +57,11 @@ a {
 .challenges {
 
 }
+
+.aspects {
+    display: flex;
+
+}
 .references {
 
 }
