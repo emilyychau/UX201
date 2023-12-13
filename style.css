@@ -40,6 +40,10 @@ a {
 
 /* GALLERY */
 
+.big-daddy-gallery {
+    float: center;
+}
+
 div.gallery {
     border: 1px solid #ccc;
 }
