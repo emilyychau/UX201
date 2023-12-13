@@ -119,8 +119,9 @@ width: 39.99999%;
     text-align: center;
 }
 
-.land-back{
+.land-back p{
     font-size: 0.8em; 
+    text-align: justify;
     padding-left, padding-right: 30px;
 }
 
