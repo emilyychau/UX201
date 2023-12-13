@@ -106,11 +106,7 @@ width: 39.99999%;
 
 /* FOOTER */
 
-footer p{
-    text-align: center;
-}
-
-.links-footer {
+.links-footer{
     font-size: 0.8em; 
     text-align: right;
     color: darkblue;
@@ -118,9 +114,9 @@ footer p{
     padding-right: 30px;
 }
 
-.copyright{
+.copyright p{
     font-size: 0.8em; 
-    padding: 30px;
+    text-align: center;
 }
 
 .land-back{
