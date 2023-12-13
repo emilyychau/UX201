@@ -40,10 +40,6 @@ a {
 
 /* GALLERY */
 
-.big-daddy-gallery{
-float: center;
-}
-
 div.gallery {
     border: 1px solid #ccc;
 }
@@ -63,11 +59,16 @@ text-align: center;
 box-sizing: border-box;
 }
 
-.responsive {
+.responsive-left {
 padding: 0 6px;
-float: center;
+float: left;
 width: 24.99999%;
 }
+.responsive-right {
+    padding: 0 6px;
+    float: right;
+    width: 24.99999%;
+    }
 
 /* FOOTER */
 
