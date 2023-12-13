@@ -1,0 +1,57 @@
+/* FONT */
+
+h1, h2, h3 {
+        font-family: 'Hammersmith One', sans-serif;
+        color: #333;
+        text-align: center;
+}
+
+p, a, li {
+    font-family: 'Montserrat', sans-serif;
+    color: #333;
+    text-align: left;
+} 
+
+/* NAV */
+
+ul {
+    list-style: none;
+    padding: 0;
+    text-align: right;
+}
+
+li {
+    display: inline;
+    margin-right: 20px;
+    text-align: right;
+    font-size: 1em;
+}
+
+a {
+    text-decoration: none;
+    color: #202020;
+}
+div.gallery {
+    border: 1px solid #ccc;
+}
+div.gallery:hover {
+    border: 1px solid #777;
+}
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+div.desc {
+padding: 15px;
+text-align: center;
+}
+
+* {
+box-sizing: border-box;
+}
+
+.responsive {
+padding: 0 6px;
+float: left;
+width: 24.99999%;
+}
