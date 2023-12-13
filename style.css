@@ -6,7 +6,7 @@ h1, h2, h3 {
         text-align: center;
 }
 
-p, a, li {
+p, a, li, footer {
     font-family: 'Montserrat', sans-serif;
     color: #333;
     text-align: left;
@@ -54,4 +54,25 @@ box-sizing: border-box;
 padding: 0 6px;
 float: left;
 width: 24.99999%;
+}
+
+/* FOOTER */
+
+.links-footer {
+    font-size: 0.8em; 
+    text-align: right;
+    color: darkblue;
+    text-decoration: underline;
+    padding-right: 30px;
+}
+
+.copyright{
+    text-align: center;
+    font-size: 0.8em; 
+}
+
+.land-back{
+    text-align: justify;
+    font-size: 0.8em; 
+    padding: 30px;
 }
