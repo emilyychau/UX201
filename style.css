@@ -42,6 +42,7 @@ a {
 
 div.big-daddy-gallery {
     float: center;
+    padding-bottom: 60px;
 }
 div.gallery {
     border: 1px solid #ccc;
