@@ -12,7 +12,7 @@ p, a, li, footer, span {
 
 /* PADDING */
 
-main{
+main p{
     padding-bottom: 20px;
     padding-left, padding-right: 30px;
 }
@@ -47,7 +47,7 @@ a {
 
 }
 
-.aims {
+.aims span{
     float: center;
 }
 
@@ -133,5 +133,4 @@ span{
     background-color: #293241;
     color: white;
     padding: 15px 32px;
-    text-align: center;
 }
