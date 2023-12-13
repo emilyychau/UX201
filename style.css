@@ -64,14 +64,14 @@ box-sizing: border-box;
 }
 
 .responsive-left {
-padding: 0 20px;
+padding: 0 30px;
 float: left;
-width: 24.99999%;
+width: 49.99999%;
 }
 .responsive-right {
-    padding: 0 20px;
+    padding: 0 30px;
     float: right;
-    width: 24.99999%;
+    width: 49.99999%;
     }
 
 /* FOOTER */
