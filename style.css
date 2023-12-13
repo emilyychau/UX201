@@ -38,6 +38,33 @@ a {
     color: #202020;
 }
 
+/* MAIN DIVs */
+
+.overview {
+    background-color: #3D5A80;
+    color:white;
+}
+.project {
+
+}
+.design {
+
+}
+.challenges {
+
+}
+.references {
+
+}
+
+.row {
+    display: flex;
+}
+.column {
+    flex: 50%;
+
+}
+
 /* GALLERY */
 
 div.gallery {
