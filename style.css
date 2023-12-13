@@ -2,13 +2,11 @@
 
 h1, h2, h3 {
         font-family: 'Hammersmith One', sans-serif;
-        color: #333;
         text-align: center;
 }
 
 p, a, li, footer {
     font-family: 'Montserrat', sans-serif;
-    color: #333;
     text-align: left;
 } 
 
