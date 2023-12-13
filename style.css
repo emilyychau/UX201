@@ -5,7 +5,7 @@ h1, h2, h3 {
         text-align: center;
 }
 
-p, a, li, footer {
+p, a, li, footer, span {
     font-family: 'Montserrat', sans-serif;
     text-align: left;
 } 
@@ -111,10 +111,21 @@ width: 39.99999%;
 .copyright{
     text-align: center;
     font-size: 0.8em; 
+    padding: 30px;
 }
 
 .land-back{
     text-align: justify;
     font-size: 0.8em; 
     padding: 30px;
+}
+
+/* FAUX BUTTONS */
+
+span{
+    border-radius: 25px;
+    background-color: #293241;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
 }
