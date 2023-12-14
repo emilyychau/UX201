@@ -10,7 +10,7 @@ h3, strong {
     text-align: left;
 }
 
-p, a, li, footer, span, sup, figcaption {
+p, a, li, footer, span, sup, figcaption, .desc {
     font-family: 'Montserrat', sans-serif;
     text-align: left;
 } 
@@ -129,6 +129,7 @@ a {
 }
 .column {
     flex: 50%;
+    align-items: center;
 
 }
 
