@@ -68,6 +68,7 @@ a {
 }
 
 .aims span{
+    align-items: center;
     float: center;
     padding-left: 40px;
     padding-right: 40px;
