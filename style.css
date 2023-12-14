@@ -57,35 +57,45 @@ a {
 
 .overview {
     padding-top: 20px;
+    padding-bottom: 20px;
     background-color: #3D5A80;
     color:white;
 }
 .project {
-
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 .aims span{
     float: center;
     padding-left: 40px;
     padding-right: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 .design {
-
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 .Ratto img{
     align-items: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 .challenges{
-
+    padding-top: 20px;
+    padding-bottom: 20px;
 } 
 
 .aspects {
     display: flex;
     background-color: #3D5A80;
     color:white;
+    padding-top: 20px;
+    padding-bottom: 20px;
 
 }
 .references {
@@ -93,6 +103,8 @@ a {
     text-align: left;
     padding-left: 40px;
     padding-right: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
 
 }
 
