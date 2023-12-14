@@ -58,6 +58,12 @@ a {
     color: #202020;
 }
 
+/* PHASES */
+.phase {
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+
 /* MAIN DIVs */
 
 .overview {
@@ -88,6 +94,10 @@ a {
     align-items: center;
     padding-top: 20px;
     padding-bottom: 20px;
+}
+
+.Phases img{
+
 }
 
 .challenges{
