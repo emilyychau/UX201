@@ -61,6 +61,8 @@ a {
 
 .aims span{
     float: center;
+    padding-left: 40px;
+    padding-right: 40px;
 }
 
 .design {
@@ -72,6 +74,8 @@ a {
 
 .aspects {
     display: flex;
+    background-color: #3D5A80;
+    color:white;
 
 }
 .references {
