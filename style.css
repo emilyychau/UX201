@@ -7,7 +7,7 @@ h1, h2 {
 
 h3 {
     font-family: 'Hammersmith One', sans-serif;
-        text-align: left;
+    text-align: left;
 }
 
 p, a, li, footer, span, sup, figcaption {
@@ -30,6 +30,7 @@ main p{
 main h3 {
     padding-left: 40px;
     padding-right: 40px;
+    padding-top: 40px;
 }
 
 
