@@ -17,6 +17,10 @@ p, a, li, footer, span, sup, figcaption {
 
 /* PADDING */
 
+main {
+    margin-left: 10px;
+    margin-right: 10px;
+}
 main p{
     padding-bottom: 20px;
     padding-left: 40px;
