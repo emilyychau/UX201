@@ -5,7 +5,7 @@ h1, h2 {
         text-align: center;
 }
 
-h3 {
+h3, strong {
     font-family: 'Hammersmith One', sans-serif;
     text-align: left;
 }
