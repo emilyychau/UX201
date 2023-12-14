@@ -1,5 +1,7 @@
 /* FONT */
 
+
+
 h1, h2 {
         font-family: 'Hammersmith One', sans-serif;
         text-align: center;
@@ -10,7 +12,7 @@ h3, strong {
     text-align: left;
 }
 
-p, a, li, footer, span, sup, figcaption, .desc {
+main, p, a, li, footer, span, sup, figcaption, .desc {
     font-family: 'Montserrat', sans-serif;
     text-align: left;
 } 
