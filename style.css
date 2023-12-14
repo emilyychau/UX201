@@ -74,7 +74,7 @@ a {
 }
 
 .Ratto img{
-    float: center;
+    align-items: center;
 }
 
 .challenges{
