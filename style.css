@@ -135,6 +135,13 @@ width: 39.99999%;
     width: 39.99999%;
     }
 
+    .center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+      }
+
 /* FOOTER */
 
 .links-footer{
