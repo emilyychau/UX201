@@ -17,10 +17,6 @@ p, a, li, footer, span, sup, figcaption, .desc {
 
 /* PADDING */
 
-spacer {
-    padding: 60px;
-}
-
 main {
     padding-left: 40px;
     padding-right: 40px;
@@ -58,11 +54,6 @@ a {
     color: #202020;
 }
 
-/* PHASES */
-.phase {
-    padding-top: 40px;
-}
-
 /* MAIN DIVs */
 
 .overview {
@@ -93,10 +84,6 @@ a {
     align-items: center;
     padding-top: 20px;
     padding-bottom: 20px;
-}
-
-.Phases img{
-
 }
 
 .challenges{
@@ -151,6 +138,7 @@ div.gallery:hover {
 div.desc {
 padding: 15px;
 text-align: center;
+padding-bottom: 40px;
 }
 
 * {
