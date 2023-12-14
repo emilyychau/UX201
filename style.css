@@ -17,6 +17,10 @@ p, a, li, footer, span, sup, figcaption {
 
 /* PADDING */
 
+spacer {
+    padding: 20px;
+}
+
 main {
     padding-left: 40px;
     padding-right: 40px;
@@ -69,7 +73,6 @@ a {
 
 .aims span{
     align-items: center;
-    float: center;
     padding-left: 40px;
     padding-right: 40px;
     padding-top: 20px;
