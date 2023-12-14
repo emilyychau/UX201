@@ -108,6 +108,8 @@ a {
 
 div.gallery {
     border: 1px solid #ccc;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 div.gallery:hover {
     border: 1px solid #777;
