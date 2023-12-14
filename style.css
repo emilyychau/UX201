@@ -118,9 +118,9 @@ a {
     display: flex;
 }
 .column {
-    flex: 45%;
+    flex: 50%;
     align-items: center;
-
+    float: left;
 }
 
 .reflections {
