@@ -10,7 +10,7 @@ h3 {
         text-align: left;
 }
 
-p, a, li, footer, span, sup {
+p, a, li, footer, span, sup, figcaption {
     font-family: 'Montserrat', sans-serif;
     text-align: left;
 } 
