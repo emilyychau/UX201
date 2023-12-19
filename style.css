@@ -20,11 +20,10 @@ main, p, a, li, footer, span, sup, figcaption, .desc {
 
 
 /* PADDING */
-
-main {
-    padding-left: 40px;
-    padding-right: 40px;
+main{
+    margin: 40px;
 }
+
 main p{
     padding-bottom: 20px;
     padding-left: 40px;
